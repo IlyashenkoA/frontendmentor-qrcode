@@ -359,7 +359,6 @@ template {
   --white: #ffffff;
   --dark-navy: #1f314f;
 
-  --font-family: "Outfit";
   --fw-700: 700;
   --fw-400: 400;
 }
@@ -374,7 +373,7 @@ body {
 
 h1,
 p {
-  font-family: var(--font-family);
+  font-family: "Outfit";
   text-align: center;
 }
 
