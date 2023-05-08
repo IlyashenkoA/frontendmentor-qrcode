@@ -30,7 +30,7 @@
 1. Clone the repository
 
 ```
-git clone https://github.com/IlyashenkoA/frontendmentor-tic-tac-toe.git
+git clonehttps://github.com/IlyashenkoA/frontendmentor-qrcode.git
 ```
 
 2. Launch Live Server
