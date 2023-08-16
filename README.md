@@ -11,7 +11,7 @@
 </p>
 
 ## About The Project
-
+An elegantly simple UI card showcasing the power of QR codes. Effortlessly display information through a QR code accompanied by concise text.
 <br />
 
 <img src="https://i.ibb.co/CVdtg70/2023-05-08-111056.png" />
